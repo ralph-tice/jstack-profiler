@@ -1,7 +1,3 @@
-import AssemblyKeys._
-
-assemblySettings
-
 name := "jstack-profiler"
 
 version := "0.2"
